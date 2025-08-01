@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vaishnavshalikumar.github.io/my-react-app",
+  "homepage": "https://github.com/666vaishnav666/Tic_Tac_Toe",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
